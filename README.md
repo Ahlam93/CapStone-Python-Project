@@ -1,4 +1,4 @@
-#  Customer Segmentation Capstone Project  
+#  Customer Segmentation Project  
 ### **RFM Analysis & K-Means Clustering**
 
 A data-driven project focused on understanding and segmenting customers based on purchasing behavior, using **RFM (Recency, Frequency, Monetary)** analysis and **K-Means clustering** to uncover actionable insights that improve marketing strategies, customer retention, and business growth.
