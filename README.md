@@ -32,11 +32,6 @@ RFM segmentation evaluates customers based on:
 - **Frequency:** How often the customer makes purchases.  
 - **Monetary:** How much the customer spends.  
 
-These three metrics are used to score and categorize customers into segments such as:
--  **Champions** – Highly engaged and frequent buyers.  
--  **Potential Loyalists** – Promising customers showing growing loyalty.  
--  **Hibernating Customers** – Long-time inactive or at-risk customers.  
-
 #### **Why RFM?**
 - Provides interpretable, actionable customer segments.  
 - Helps prioritize marketing efforts.  
